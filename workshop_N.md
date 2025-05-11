@@ -29,32 +29,47 @@
 
 
 # PNG (lossless)
+
 <img src="photo.png" alt="..." >
 # WebP (lossless)
+
 ![photo](https://github.com/user-attachments/assets/64b97e9c-43c9-4a1c-aa52-9db4e8d918af)
 # MozJPEG 100%
+
 ![photo (100%)](https://github.com/user-attachments/assets/bb41af84-359e-411a-88e6-3de8349212e8)
 # MozJPEG 75%
+
 ![photo (75%)](https://github.com/user-attachments/assets/c4a0b9ab-1381-4808-b6d0-952dfc6eb41c)
 # MozJPEG 50%
+
 ![photo (50%)](https://github.com/user-attachments/assets/29d2da3e-5481-4fdd-a6a3-908dea2940ab)
 # WebP 100%
+
 <img src="photo (1).webp" alt="..." >
 # WebP 75%
+
 <img src="photo (2).webp" alt="..." >
 # WebP 50%
+
 <img src="photo (3).webp" alt="..." >
-# AVIF 100% 
+# AVIF 100%
+
 <img src="photo.avif" alt="..." >
 # AVIF 75%
+
 <img src="photo (1).avif" alt="..." >
 # AVIF 50%
+
 <img src="photo (2).avif" alt="..." >
 # Ширина 1200
+
 ![photo (1)](https://github.com/user-attachments/assets/628dd260-ac78-4bc6-9ce1-2fc4c7fa5a28)
 # Ширина 600
+
 ![photo (2)](https://github.com/user-attachments/assets/ceda9574-4409-4694-9928-cd3b60c44944)
 # Ширина 2х
+
 <img src="photo (3).png" alt="..." >
 # Ширина 3х
+
 <img src="photo (1).png" alt="..." >
