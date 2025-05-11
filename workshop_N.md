@@ -28,7 +28,33 @@
 | photo             | 4,05 МБ        | 12,6 МБ        | 6,34 МБ         | 4,55 МБ      | 890 КБ      | 514 КБ      | 3,57 МБ   | 700 КБ   | 464 КБ   | 3,34 МБ   | 1,02 МБ  | 376 КБ   | 3,87 МБ      | 1,94 МБ     | 8,10 МБ     | 18,2 МБ     |
 
 
+PNG (lossless)
 
+WebP (lossless)
+![photo](https://github.com/user-attachments/assets/64b97e9c-43c9-4a1c-aa52-9db4e8d918af)
+MozJPEG 100%
+![photo (100%)](https://github.com/user-attachments/assets/bb41af84-359e-411a-88e6-3de8349212e8)
+MozJPEG 75%
+![photo (75%)](https://github.com/user-attachments/assets/c4a0b9ab-1381-4808-b6d0-952dfc6eb41c)
+MozJPEG 50%
+![photo (50%)](https://github.com/user-attachments/assets/29d2da3e-5481-4fdd-a6a3-908dea2940ab)
+WebP 100%
+<img src="photo (1).webp" alt="..." >
 
+WebP 75%
 
+WebP 50%
 
+AVIF 100% 
+
+AVIF 75%
+
+AVIF 50%
+
+Ширина 1200
+
+Ширина 600
+
+Ширина 2х
+
+Ширина 3х
