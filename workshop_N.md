@@ -180,7 +180,7 @@
 
 ## WebP 100%
 
-<img src="Screenshot(100%).webp" alt="..." >
+<img src="Screenshot (100%).webp" alt="..." >
 
 ## WebP 75%
 
