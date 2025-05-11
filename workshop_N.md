@@ -30,7 +30,7 @@
 # photo
 ## PNG (lossless)
 
-<img src="photo.png" alt="..." >
+<img src="img\photo.png" alt="..." >
 
 ## WebP (lossless)
 
