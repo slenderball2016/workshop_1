@@ -180,15 +180,15 @@
 
 ## WebP 100%
 
-<img src="Screenshot (100%).webp" alt="..." >
+<img src="Screenshot(100%).webp" alt="..." >
 
 ## WebP 75%
 
-<img src="Screenshot (75%).webp" alt="..." >
+<img src="Screenshot(75%).webp" alt="..." >
 
 ## WebP 50%
 
-<img src="Screenshot (50%).webp" alt="..." >
+<img src="Screenshot(50%).webp" alt="..." >
 
 ## AVIF 100%
 
