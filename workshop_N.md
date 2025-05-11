@@ -29,7 +29,7 @@
 
 
 PNG (lossless)
-
+<img src="photo.png" alt="..." >
 WebP (lossless)
 ![photo](https://github.com/user-attachments/assets/64b97e9c-43c9-4a1c-aa52-9db4e8d918af)
 MozJPEG 100%
