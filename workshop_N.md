@@ -50,27 +50,27 @@
 
 ## WebP 100%
 
-<img src="photo (1).webp" alt="..." >
+<img src="img\photo (1).webp" alt="..." >
 
 ## WebP 75%
 
-<img src="photo (2).webp" alt="..." >
+<img src="img\photo (2).webp" alt="..." >
 
 ## WebP 50%
 
-<img src="photo (3).webp" alt="..." >
+<img src="img\photo (3).webp" alt="..." >
 
 ## AVIF 100%
 
-<img src="photo.avif" alt="..." >
+<img src="img\photo.avif" alt="..." >
 
 ## AVIF 75%
 
-<img src="photo (1).avif" alt="..." >
+<img src="img\photo (1).avif" alt="..." >
 
 ## AVIF 50%
 
-<img src="photo (2).avif" alt="..." >
+<img src="img\photo (2).avif" alt="..." >
 
 ## Ширина 1200
 
@@ -82,11 +82,11 @@
 
 ## Ширина 2х
 
-<img src="photo (3).png" alt="..." >
+<img src="img\photo (3).png" alt="..." >
 
 ## Ширина 3х
 
-<img src="photo (1).png" alt="..." >
+<img src="img\photo (1).png" alt="..." >
 
 #photo_with_text
 
@@ -96,7 +96,7 @@
 
 ## WebP (lossless)
 
-<img src="photo_with_text.webp" alt="..." >
+<img src="img\photo_with_text.webp" alt="..." >
 
 ## MozJPEG 100%
 
@@ -112,27 +112,27 @@
 
 ## WebP 100%
 
-<img src="photo_with_text (1).webp" alt="..." >
+<img src="img\photo_with_text (1).webp" alt="..." >
 
 ## WebP 75%
 
-<img src="photo_with_text (2).webp" alt="..." >
+<img src="img\photo_with_text (2).webp" alt="..." >
 
 ## WebP 50%
 
-<img src="photo_with_text (3).webp" alt="..." >
+<img src="img\photo_with_text (3).webp" alt="..." >
 
 ## AVIF 100%
 
-<img src="photo_with_text.avif" alt="..." >
+<img src="img\photo_with_text.avif" alt="..." >
 
 ## AVIF 75%
 
-<img src="photo_with_text (1).avif" alt="..." >
+<img src="img\photo_with_text (1).avif" alt="..." >
 
 ## AVIF 50%
 
-<img src="photo_with_text (2).avif" alt="..." >
+<img src="img\photo_with_text (2).avif" alt="..." >
 
 ## Ширина 1200
 
@@ -161,7 +161,7 @@
 
 ## WebP (lossless)
 
-<img src="Screenshot.webp" alt="..." >
+<img src="img\Screenshot.webp" alt="..." >
 
 ## MozJPEG 100%
 
@@ -180,27 +180,27 @@
 
 ## WebP 100%
 
-<img src="Screenshot (100%).webp" alt="..." >
+<img src="img\Screenshot (3).webp" alt="..." >
 
 ## WebP 75%
 
-<img src="Screenshot(75%).webp" alt="..." >
+<img src="img\Screenshot (2).webp" alt="..." >
 
 ## WebP 50%
 
-<img src="Screenshot(50%).webp" alt="..." >
+<img src="img\Screenshot (1).webp" alt="..." >
 
 ## AVIF 100%
 
-<img src="Screenshot.avif" alt="..." >
+<img src="img\Screenshot.avif" alt="..." >
 
 ## AVIF 75%
 
-<img src="Screenshot (1).avif" alt="..." >
+<img src="img\Screenshot (1).avif" alt="..." >
 
 ## AVIF 50%
 
-<img src="Screenshot (2).avif" alt="..." >
+<img src="img\Screenshot (2).avif" alt="..." >
 
 ## Ширина 1200
 
